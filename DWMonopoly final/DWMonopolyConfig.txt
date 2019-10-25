@@ -1,2 +1,0 @@
-[Source ROM]=C:\Users\AaronX\Desktop\fceux-2.2.3-win32\Monopoly.nes
-[Dest ROM]=C:\Users\AaronX\Desktop\DWMonopoly.nes
