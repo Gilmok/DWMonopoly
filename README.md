@@ -3,4 +3,6 @@ Monopoly, Dragon Warrior Edition maker
 
 Download all the files and put them into the same directory, then run the executable.
 
-Note: Dragon Warrior Monopoly is not a virus.  If you are having trouble running the executable, please post an issue in the github.  Thanks and enjoy.
+I am also providing a Lunar IPS patch file to patch your Monopoly ROM if anti-virus is preventing the executable from running.  Simply download Lunar IPS and apply the patch.
+
+ Thanks and enjoy.
